@@ -1,0 +1,24 @@
+{
+  "name": "simple-nodejs-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vas",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VassAngels/nodejs_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VassAngels/nodejs_app/issues"
+  },
+  "homepage": "https://github.com/VassAngels/nodejs_app#readme",
+  "description": ""
+}
